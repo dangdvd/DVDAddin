@@ -2,29 +2,29 @@
 DVD Addin - Hỗ trợ công tác lập, in ấn hồ sơ hàng loạt tự động nhanh chóng. Bổ sung các tính năng mở rộng cho Excel.
 
 Tính năng:
-Định dạng văn bản: in hoa, thường, viết hoa chữ cái đầu từ mỗi câu, viết hoa chữ cái đầu mỗi từ, viết hoa viết thường thông minh.
+- Định dạng văn bản: in hoa, thường, viết hoa chữ cái đầu từ mỗi câu, viết hoa chữ cái đầu mỗi từ, viết hoa viết thường thông minh.
 
-Đánh số thứ tự theo hàng, theo cột, theo bước nhảy của số.
+- Đánh số thứ tự theo hàng, theo cột, theo bước nhảy của số.
 
-Đảo văn bản qua ký tự ngăn cách (vd: dùng đảo văn bản song ngữ).
+- Đảo văn bản qua ký tự ngăn cách (vd: dùng đảo văn bản song ngữ).
 
-Đổi bảng mã giữa Unicode <-> VNI Windows <-> TCVN3 không bị lỗi font.
+- Đổi bảng mã giữa Unicode <-> VNI Windows <-> TCVN3 không bị lỗi font.
 
-In nghiêng văn bản sau ký tự ngăn cách (vd: dùng in nghiêng văn bản song ngữ).
+- In nghiêng văn bản sau ký tự ngăn cách (vd: dùng in nghiêng văn bản song ngữ).
 
-Dịch văn bản tạo song ngữ theo google dịch, chatGPT, google Bard.
+- Dịch văn bản tạo song ngữ theo google dịch, chatGPT, google Bard.
 
-Liệt kê file trong folder, liệt kê file theo cây thư mục folder.
+- Liệt kê file trong folder, liệt kê file theo cây thư mục folder.
 
-Liệt kê Folder theo cây thư mục và tạo cây thư mục Folder theo danh sách trên excel.
+- Liệt kê Folder theo cây thư mục và tạo cây thư mục Folder theo danh sách trên excel.
 
-Xóa, chèn nhiều dòng cột.
+- Xóa, chèn nhiều dòng cột.
 
-Đánh ký hiệu đặc biệt, số đầu mục, chữ cái đầu mục vào đầu dòng các văn bảng được chọn.
+- Đánh ký hiệu đặc biệt, số đầu mục, chữ cái đầu mục vào đầu dòng các văn bảng được chọn.
 
-Thiết lập in ấn hồ sơ tài liệu hàng loạt, giãn dòng tự động, ngắt trang vùng ký.
+- Thiết lập in ấn hồ sơ tài liệu hàng loạt, giãn dòng tự động, ngắt trang vùng ký.
 
-Lập Sheet mục lục cho các sheet trong bảng tính và tạo liên kết Hyperlink đến các sheet.
+- Lập Sheet mục lục cho các sheet trong bảng tính và tạo liên kết Hyperlink đến các sheet.
 
 Chèn hình ảnh hàng loạt vào và co giãn vừa ô excel kể cả ô merge.
 
