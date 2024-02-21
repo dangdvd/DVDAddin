@@ -26,8 +26,8 @@ Tính năng:
 
 - Lập Sheet mục lục cho các sheet trong bảng tính và tạo liên kết Hyperlink đến các sheet.
 
-Chèn hình ảnh hàng loạt vào và co giãn vừa ô excel kể cả ô merge.
+- Chèn hình ảnh hàng loạt vào và co giãn vừa ô excel kể cả ô merge.
 
-Tạo highlight mặt bằng theo dõi tiến độ công việc thực hiện.
+- Tạo highlight mặt bằng theo dõi tiến độ công việc thực hiện.
 
-Và một số hàm mở rộng: chuyển tiền số thành chữ, diễn giải khối lượng, chèn hình tự động khi tên vùng tham chiếu thay đổi, các hàm tương tự office 365,....
+- Và một số hàm mở rộng: chuyển tiền số thành chữ, diễn giải khối lượng, chèn hình tự động khi tên vùng tham chiếu thay đổi, các hàm tương tự office 365,....
