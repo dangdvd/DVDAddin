@@ -2,6 +2,7 @@
 DVD Addin - Hỗ trợ công tác lập, in ấn hồ sơ hàng loạt tự động nhanh chóng. Bổ sung các tính năng mở rộng cho Excel.
 
 Tác giả: Đặng Văn Đằng
+
 Tính năng:
 - Định dạng văn bản: in hoa, thường, viết hoa chữ cái đầu từ mỗi câu, viết hoa chữ cái đầu mỗi từ, viết hoa viết thường thông minh.
 
