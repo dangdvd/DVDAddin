@@ -14,7 +14,7 @@ Tính năng:
 
 - In nghiêng văn bản sau ký tự ngăn cách (vd: dùng in nghiêng văn bản song ngữ).
 
-- Dịch văn bản tạo song ngữ theo google dịch, chatGPT, google Bard.
+- Dịch văn bản tạo song ngữ theo google dịch, chatGPT, google Gemini.
 
 - Liệt kê file trong folder, liệt kê file theo cây thư mục folder.
 
@@ -30,6 +30,50 @@ Tính năng:
 
 - Chèn hình ảnh hàng loạt vào và co giãn vừa ô excel kể cả ô merge.
 
+- Chèn hình ảnh hàng loạt vào comment.
+
+- Trộn dữ liệu từ Excel sang Word nâng cao (tương tự chức năng mail merge trong Word)
+
 - Tạo highlight mặt bằng theo dõi tiến độ công việc thực hiện.
 
+- Tạo danh mục nhật ký công trình từ danh mục hồ sơ nghiệm thu.
+
+- Highlight hàng và cột được chọn để tránh nhầm lẫn khi tra cứu, nhập số liệu
+
+- Hỏi và trả lời với trí tuệ nhân tạo, diễn giải công thức phức tạp.
+
 - Và một số hàm mở rộng: chuyển tiền số thành chữ, diễn giải khối lượng, chèn hình tự động khi tên vùng tham chiếu thay đổi, các hàm tương tự office 365,....
+
+Phím tắt:
+- F3            :  Xem vị trí các các ô có trong công thức
+  
+- F4            :  Sao chép định dạng ô
+  
+- F9            :  Trả lời cho lệnh tạo ô đang chọn, kết quả hiển thị ô liền kề bên dưới
+  
+- Ctrl+j        :  Canh lề trái, giữa, phải
+  
+- Ctrl+m        :  Canh lề trên, giữa, dưới
+  
+- Ctrl+Shift+a  :  Tô màu vàng cho vùng được chọn
+  
+- Ctrl+Shift+c  :  Chuyển văn bản sang in thường, in hoa, in hoa đầu từ, in hoa đầu câu
+  
+- Ctrl+Shift+s  "  Chuyển văn bản in hoa, in thường thông minh
+  
+- Ctrl+Shift+d  :  Di chuyển hình được chọn đến vừa khít vùng chọn
+  
+- Ctrl+Shift+v  :  Dịch văn bản vùng được chọn sang Tiếng Việt
+  
+- Ctrl+Shift+e  :  Dịch văn bản vùng được chọn sang Tiếng Anh
+  
+- Ctrl+Shift+m  :  Tự động giãn dòng các vùng Merge cell trong vùng được chọn
+  
+- Ctrl+Shift+t  :  Copy, Paste nhiều vùng chọn khác nhau
+  
+- Ctrl+Shift+i  :  In nghiêng văn bản sau ký tự ngăn cách
+  
+- Ctrl+Shift+r  :  Đảo ngược văn bản sau ký tự ngăn cách
+  
+- Ctrl+Shift+x  :  Copy và Paste bỏ qua vùng ẩn, áp dụng được cho ô merge có kích thước của vùng nguồn và đích khác nhau
+  
