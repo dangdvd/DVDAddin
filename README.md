@@ -49,7 +49,7 @@ Phím tắt:
   
 - F4            :  Sao chép định dạng ô
   
-- F9            :  Trả lời cho lệnh tạo ô đang chọn, kết quả hiển thị ô liền kề bên dưới
+- F9            :  Trả lời cho lệnh tại ô đang chọn, kết quả hiển thị ô liền kề bên dưới
   
 - Ctrl+j        :  Canh lề trái, giữa, phải
   
