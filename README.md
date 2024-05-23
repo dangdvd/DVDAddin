@@ -59,7 +59,7 @@ Phím tắt:
   
 - Ctrl+Shift+c  :  Chuyển văn bản sang in thường, in hoa, in hoa đầu từ, in hoa đầu câu
   
-- Ctrl+Shift+s  "  Chuyển văn bản in hoa, in thường thông minh
+- Ctrl+Shift+s  :  Chuyển văn bản in hoa, in thường thông minh
   
 - Ctrl+Shift+d  :  Di chuyển hình được chọn đến vừa khít vùng chọn
   
