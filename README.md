@@ -4,6 +4,8 @@ DVD Addin - Hỗ trợ công tác lập, in ấn hồ sơ hàng loạt tự đ�
 Tác giả: Đặng Văn Đằng
 
 Tính năng:
+- Xóa mật khẩu bảo vệ Sheet bị quên.
+
 - Định dạng văn bản: in hoa, thường, viết hoa chữ cái đầu từ mỗi câu, viết hoa chữ cái đầu mỗi từ, viết hoa viết thường thông minh.
 
 - Đánh số thứ tự theo hàng, theo cột, theo bước nhảy của số.
@@ -42,12 +44,14 @@ Tính năng:
 
 - Hỏi và trả lời với trí tuệ nhân tạo, diễn giải công thức phức tạp.
 
-- Và một số hàm mở rộng: chuyển tiền số thành chữ, diễn giải khối lượng, chèn hình tự động khi tên vùng tham chiếu thay đổi, các hàm tương tự office 365,....
+- Và một số hàm mở rộng có gợi ý cách dùng như của Microsoft: chuyển tiền số thành chữ, diễn giải khối lượng, chèn hình tự động khi tên vùng tham chiếu thay đổi, các hàm tương tự office 365,....
 
 Phím tắt:
 - F3            :  Xem vị trí các các ô có trong công thức
   
 - F4            :  Sao chép định dạng ô
+
+- F6            :  Sao chép dữ liệu bỏ qua dòng ẩn
   
 - F9            :  Trả lời cho lệnh tại ô đang chọn, kết quả hiển thị ô liền kề bên dưới
   
