@@ -49,7 +49,7 @@ Tính năng:
 Phím tắt:
 - F3            :  Xem vị trí các các ô có trong công thức
   
-- F4            :  Sao chép định dạng ô
+- F8            :  Sao chép định dạng ô
 
 - F6            :  Sao chép dữ liệu bỏ qua dòng ẩn
   
