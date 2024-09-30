@@ -53,7 +53,7 @@ Phím tắt:
 
 - F6            :  Sao chép dữ liệu bỏ qua dòng ẩn
   
-- F9            :  Trả lời cho lệnh tại ô đang chọn, kết quả hiển thị ô liền kề bên dưới
+- Shift + F1    :  Trả lời cho lệnh tại ô đang chọn, kết quả hiển thị ô liền kề bên dưới
   
 - Ctrl+j        :  Canh lề trái, giữa, phải
   
