@@ -24,7 +24,7 @@ Tính năng:
 
 - Xóa, chèn nhiều dòng cột.
 
-- Xóa name range, cell styles rác giúp giảm dung lượng và mở fine nhanh.
+- Xóa name range, cell styles rác giúp giảm dung lượng và mở file nhanh.
 
 - Đánh ký hiệu đặc biệt, số đầu mục, chữ cái đầu mục vào đầu dòng các văn bảng được chọn.
 
