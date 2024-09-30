@@ -24,6 +24,8 @@ Tính năng:
 
 - Xóa, chèn nhiều dòng cột.
 
+- Xóa name range, cell styles rác giúp giảm dung lượng và mở fine nhanh.
+
 - Đánh ký hiệu đặc biệt, số đầu mục, chữ cái đầu mục vào đầu dòng các văn bảng được chọn.
 
 - Thiết lập in ấn hồ sơ tài liệu hàng loạt, giãn dòng tự động, ngắt trang vùng ký.
