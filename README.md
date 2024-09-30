@@ -43,6 +43,12 @@ Tính năng:
 - Highlight hàng và cột được chọn để tránh nhầm lẫn khi tra cứu, nhập số liệu
 
 - Hỏi và trả lời với trí tuệ nhân tạo, diễn giải công thức phức tạp.
+  
+- Quản lý và gửi email hàng loạt.
+
+- Gộp, tách file PDF.
+
+- Trích xuất ảnh từ file Excel, thay đổi kích thước hình ảnh hàng loạt.
 
 - Và một số hàm mở rộng có gợi ý cách dùng như của Microsoft: chuyển tiền số thành chữ, diễn giải khối lượng, chèn hình tự động khi tên vùng tham chiếu thay đổi, các hàm tương tự office 365,....
 
