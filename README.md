@@ -61,7 +61,7 @@ Phím tắt:
 
 - F6            :  Sao chép dữ liệu bỏ qua dòng ẩn
   
-- Shift + F1    :  Trả lời cho lệnh tại ô đang chọn, kết quả hiển thị ô liền kề bên dưới
+- Shift + F1    :  Trả lời cho lệnh tại ô đang chọn, kết quả hiển thị ô liền kề bên dưới (cần nhập key API Gemini trước)
   
 - Ctrl+j        :  Canh lề trái, giữa, phải
   
@@ -71,7 +71,7 @@ Phím tắt:
   
 - Ctrl+Shift+c  :  Chuyển văn bản sang in thường, in hoa, in hoa đầu từ, in hoa đầu câu
   
-- Ctrl+Shift+s  :  Chuyển văn bản in hoa, in thường thông minh
+- Ctrl+Shift+s  :  Chuyển văn bản in hoa, in thường thông minh (cần nhập key API Gemini trước)
   
 - Ctrl+Shift+d  :  Di chuyển hình được chọn đến vừa khít vùng chọn
   
