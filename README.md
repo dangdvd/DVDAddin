@@ -4,6 +4,8 @@ DVD Addin - Hỗ trợ công tác lập, in ấn hồ sơ hàng loạt tự đ�
 Tác giả: Đặng Văn Đằng
 
 Tính năng:
+- Giải đề thi trắc nghiệm bằng AI Assistant.
+
 - Xóa mật khẩu bảo vệ Sheet bị quên.
 
 - Định dạng văn bản: in hoa, thường, viết hoa chữ cái đầu từ mỗi câu, viết hoa chữ cái đầu mỗi từ, viết hoa viết thường thông minh.
@@ -51,6 +53,8 @@ Tính năng:
 - Gộp, tách file PDF.
 
 - Trích xuất ảnh từ file Excel, thay đổi kích thước hình ảnh hàng loạt.
+
+- Trích xuất văn bản từ ảnh và file PDF bằng AI.
 
 - Và một số hàm mở rộng có gợi ý cách dùng như của Microsoft: chuyển tiền số thành chữ, diễn giải khối lượng, chèn hình tự động khi tên vùng tham chiếu thay đổi, các hàm tương tự office 365,....
 
