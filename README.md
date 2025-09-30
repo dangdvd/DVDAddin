@@ -140,7 +140,7 @@ Khóa, gán tham chiếu nhanh các ô chứa dữ liệu tìm thấy.
 
 Và một số hàm mở rộng: chuyển tiền số thành chữ, diễn giải khối lượng, chèn hình tự động khi tên vùng tham chiếu thay đổi, các hàm tương tự office 365,....
 
-
+--------------------------------------------------------------------------------------
 **Cập nhật: 2.7.0 - 22/08/2025**
 - Cải tiến lệnh Filenames List để tùy biến liệt kê tên file.
 - Cải tiến lệnh Rename Files để đổi tên file ở các cột bất kỳ .
