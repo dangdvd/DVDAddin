@@ -95,6 +95,11 @@ Phím tắt:
 
 --------------------------------------------------------------------------------------
 
+**Cập nhật: 2.7.1 - 10/10/2025**
+- Cải tiến lệnh Preferences để tùy biến cho lệnh Reading Layout.
+- Bổ sung lệnh Regular Font Change để thay đổi font văn bản sau ký tự ngăn cách.
+- Cải tiến lệnh Translate để kết quả trả về đúng định dạng.
+
 **Cập nhật: 2.7.0 - 22/08/2025**
 - Cải tiến lệnh Filenames List để tùy biến liệt kê tên file.
 - Cải tiến lệnh Rename Files để đổi tên file ở các cột bất kỳ .
