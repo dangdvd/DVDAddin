@@ -91,7 +91,7 @@ Phím tắt:
   
 - Ctrl+Shift+r  :  Đảo ngược văn bản sau ký tự ngăn cách
   
-- Alt+x  :  Copy và Paste bỏ qua vùng ẩn, áp dụng được cho ô merge có kích thước của vùng nguồn và đích khác nhau
+- Alt+x  :  Copy và Paste bỏ qua vùng ẩn, áp dụng được cho ô merge có kích thước của vùng nguồn và đích khác nhau (kể từ phiên bản 2.7.2)
 
 --------------------------------------------------------------------------------------
 
