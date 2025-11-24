@@ -93,7 +93,20 @@ Phím tắt:
   
 - Alt+x  :  Copy và Paste bỏ qua vùng ẩn, áp dụng được cho ô merge có kích thước của vùng nguồn và đích khác nhau (kể từ phiên bản 2.7.2)
 
+- Alt+c  :  Chèn và Sao chép dòng (kể từ phiên bản 2.7.2)
+
+- Alt+s  :  Trích xuất văn bản từ ảnh chụp màn hình (kể từ phiên bản 2.7.2)
+
 --------------------------------------------------------------------------------------
+**Cập nhật: 2.7.2 - 24/11/2025**
+- Bổ sung lệnh Get Level By AI để lấy phân cấp dựa vào đầu mục có sẵn bằng AI (Phục vụ cho lệnh AutoSum và AutoGroup)
+- Bổ sung lệnh Merge Keep Data để gộp các ô trong vùng được chọn mà không mất dữ liệu các ô phía sau (Ctrl+Shift+Z)
+- Bổ sung lệnh Insert Copy Below để chèn và Sao chép dòng (Alt+C)
+- Cải thiện lệnh Autosum (Sum đúng level đầu mục)
+- Cải thiện lệnh Copy Paste Visible (Chạy lệnh trước khi chọn vùng copy)
+- Cải thiện lệnh AutoGroup (Phân cấp đúng level chỉ định)
+- Cải thiện lệnh Add Text (không tự động thêm dấu cách)
+- Cải thiện lệnh Lock Cell References (Khắc phục không hoạt động khi chọn 1 ô)
 
 **Cập nhật: 2.7.1 - 10/10/2025**
 - Cải tiến lệnh Preferences để tùy biến cho lệnh Reading Layout.
