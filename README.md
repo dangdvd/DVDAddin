@@ -107,6 +107,7 @@ Phím tắt:
 - Cải thiện lệnh AutoGroup (Phân cấp đúng level chỉ định)
 - Cải thiện lệnh Add Text (không tự động thêm dấu cách)
 - Cải thiện lệnh Lock Cell References (Khắc phục không hoạt động khi chọn 1 ô)
+- Cải tiến lệnh Picture Comment By Name để hỗ trợ  tên ảnh Tiếng Việt có dấu
 
 **Cập nhật: 2.7.1 - 10/10/2025**
 - Cải tiến lệnh Preferences để tùy biến cho lệnh Reading Layout.
