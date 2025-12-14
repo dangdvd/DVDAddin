@@ -4,6 +4,8 @@ DVD Addin - Hỗ trợ công tác lập, in ấn hồ sơ hàng loạt tự đ�
 Tác giả: Đặng Văn Đằng
 
 Tính năng:
+-  Vẽ tiến độ thi công.
+
 - Giải đề thi trắc nghiệm bằng AI Assistant.
 
 - Xóa mật khẩu bảo vệ Sheet bị quên.
@@ -98,6 +100,10 @@ Phím tắt:
 - Alt+s  :  Trích xuất văn bản từ ảnh chụp màn hình (kể từ phiên bản 2.7.2)
 
 --------------------------------------------------------------------------------------
+**Cập nhật: 2.7.3 - 14/12/2025**
+- Bổ sung lệnh Draw Gantt Chart vẽ tiến độ thi công.
+- Cải tiến lệnh Merge row để gộp các dòng dữ liệu có cột dữ liệu đầu tiên trong vùng chọn giống nhau vào 1 dòng.
+  
 **Cập nhật: 2.7.2 - 24/11/2025**
 - Bổ sung lệnh Get Level By AI để lấy phân cấp dựa vào đầu mục có sẵn bằng AI (Phục vụ cho lệnh AutoSum và AutoGroup)
 - Bổ sung lệnh Merge Keep Data để gộp các ô trong vùng được chọn mà không mất dữ liệu các ô phía sau (Ctrl+Shift+Z)
