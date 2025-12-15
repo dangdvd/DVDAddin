@@ -103,6 +103,7 @@ Phím tắt:
 **Cập nhật: 2.7.3 - 14/12/2025**
 - Bổ sung lệnh Draw Gantt Chart vẽ tiến độ thi công.
 - Cải tiến lệnh Merge row để gộp các dòng dữ liệu có cột dữ liệu đầu tiên trong vùng chọn giống nhau vào 1 dòng.
+- Thêm biểu mẫu Template Gantt Chart cho menu lệnh Template
   
 **Cập nhật: 2.7.2 - 24/11/2025**
 - Bổ sung lệnh Get Level By AI để lấy phân cấp dựa vào đầu mục có sẵn bằng AI (Phục vụ cho lệnh AutoSum và AutoGroup)
