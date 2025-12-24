@@ -103,6 +103,8 @@ Phím tắt:
 **Cập nhật: 2.7.3 - 14/12/2025**
 - Bổ sung lệnh Draw Gantt Chart vẽ tiến độ thi công.
 - Cải tiến lệnh Merge row để gộp các dòng dữ liệu có cột dữ liệu đầu tiên trong vùng chọn giống nhau vào 1 dòng.
+- Cải tiến lệnh Copy Paste Visible để bỏ qua các ô trống không link công thức.
+- Cải tiến lệnh SMART Case để tốc độ nhanh hơn.
 - Thêm biểu mẫu Template Gantt Chart cho menu lệnh Template
   
 **Cập nhật: 2.7.2 - 24/11/2025**
