@@ -4,7 +4,9 @@ DVD Addin - Hỗ trợ công tác lập, in ấn hồ sơ hàng loạt tự đ�
 Tác giả: Đặng Văn Đằng
 
 Tính năng:
--  Vẽ tiến độ thi công.
+- Cắt thép tối ưu.
+  
+- Vẽ tiến độ thi công.
 
 - Giải đề thi trắc nghiệm bằng AI Assistant.
 
@@ -100,6 +102,16 @@ Phím tắt:
 - Alt+s  :  Trích xuất văn bản từ ảnh chụp màn hình (kể từ phiên bản 2.7.2)
 
 --------------------------------------------------------------------------------------
+**Cập nhật: 2.7.4 - 18/01/2026**
+- Bổ sung lệnh Navigation để Quản lý Workbook - Sheet.
+- Bổ sung lệnh Rebar Cut Optimizer để Cắt thép thép ưu.
+- Bổ sung lệnh Auto Calculation để Bật tắt chế độ tính ngày tự động.
+- Cải tiến lệnh Numbering để Đánh số thứ tự bằng cách nhập vào giá trị bắt đầu (số hoặc chữ) và bước nhảy (số).
+- Cải tiến lệnh Draw Gantt Chart để Vẽ tiến độ thi công.
+- Cải tiến lệnh AI Assistant cho Trợ lý ảo AI.
+- Thêm biểu mẫu Template Rebar Cut Optimizer cho menu lệnh Template.
+- Thêm Tab DVD Cons và chuyển các lệnh cho chuyên môn xây dựng.
+
 **Cập nhật: 2.7.3 - 14/12/2025**
 - Bổ sung lệnh Draw Gantt Chart vẽ tiến độ thi công.
 - Cải tiến lệnh Merge row để gộp các dòng dữ liệu có cột dữ liệu đầu tiên trong vùng chọn giống nhau vào 1 dòng.
