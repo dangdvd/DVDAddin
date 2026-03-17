@@ -56,7 +56,7 @@ Tính năng:
   
 - Quản lý và gửi email hàng loạt.
 
-- Gộp, tách file PDF.
+- Đọc, gộp, tách file PDF.
 
 - Trích xuất ảnh từ file Excel, thay đổi kích thước hình ảnh hàng loạt.
 
