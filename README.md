@@ -106,6 +106,14 @@ Phím tắt:
 - Alt+s  :  Trích xuất văn bản từ ảnh chụp màn hình (kể từ phiên bản 2.7.2)
 
 --------------------------------------------------------------------------------------
+**Cập nhật: 2.7.6 - 18/04/2026**
+- Bổ sung lệnh Formula Viewer để xem các tham số trong công thức.
+- Bổ sung lệnh Lookup Trace để đến ô chứa giá trị tìm được trong công thức dò tìm.
+- Bổ sung lệnh Show Dependents để đến ô chứa công thức có ô đang chọn.
+- Cải tiến lệnh lệnh AI Assistant và thêm các nhà cung cấp dịch vụ AI miễn phí là Groq và Cerebras.
+- Cải tiến lệnh lệnh Translate và thêm các nhà cung cấp dịch vụ AI miễn phí là Groq và Cerebras.
+- Cải tiến lệnh Auto Caculation để tính ngày tự động của các công tác liên quan trong chức năng vẽ tiến độ.
+
 **Cập nhật: 2.7.5 - 17/03/2026**
 - Bổ sung lệnh Language/Ngôn ngữ để chuyển đổi giao diện Anh/Việt và bố trí lại các lệnh.
 - Bổ sung lệnh Gantt Setting để thiết lập mặc định cho biểu đồ tiến độ.
