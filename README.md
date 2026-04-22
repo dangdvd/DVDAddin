@@ -112,7 +112,7 @@ Phím tắt:
 - Bổ sung lệnh Show Dependents để đến ô chứa công thức có ô đang chọn.
 - Cải tiến lệnh lệnh AI Assistant và thêm các nhà cung cấp dịch vụ AI miễn phí là Groq và Cerebras.
 - Cải tiến lệnh lệnh Translate và thêm các nhà cung cấp dịch vụ AI miễn phí là Groq và Cerebras.
-- Cải tiến lệnh Auto Caculation để tính ngày tự động của các công tác liên quan trong chức năng vẽ tiến độ.
+- Cải tiến lệnh Auto Calculation để tính ngày tự động của các công tác liên quan trong chức năng vẽ tiến độ.
 
 **Cập nhật: 2.7.5 - 17/03/2026**
 - Bổ sung lệnh Language/Ngôn ngữ để chuyển đổi giao diện Anh/Việt và bố trí lại các lệnh.
