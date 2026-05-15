@@ -98,6 +98,8 @@ Phím tắt:
 - Ctrl+Shift+r  :  Đảo ngược văn bản sau ký tự ngăn cách
 
 - Ctrl+Shift+w  :  Quản lý workbook, worksheet.
+
+- Ctrl+Shift+q  :  Tìm kiếm lệnh nhanh.
   
 - Alt+x  :  Copy và Paste bỏ qua vùng ẩn, áp dụng được cho ô merge có kích thước của vùng nguồn và đích khác nhau (kể từ phiên bản 2.7.2)
 
@@ -106,6 +108,14 @@ Phím tắt:
 - Alt+s  :  Trích xuất văn bản từ ảnh chụp màn hình (kể từ phiên bản 2.7.2)
 
 --------------------------------------------------------------------------------------
+**Cập nhật: 2.7.7 - 15/05/2026**
+- Bổ sung lệnh Find Cmd để tìm kiếm lệnh nhanh (Ctrl+Shift+Q)
+- Bổ sung lệnh Lookup Trace để đến ô chứa giá trị tìm được trong công thức dò tìm.
+- Thay thế kích hoạt bản quyền theo tài khoản để đăng nhập online, chủ động chuyển sang dùng máy khác (liên hệ tác giả cấp bản quyền đối với các bạn đã mua trước đó)
+- Cải tiến giao diện và tốc độ của tiện ích.
+- Cải tiến lệnh nhóm lệnh vẽ tiến độ.
+- Cải tiến lênh Reading Layout để dùng trên màn hình thứ 2 khác độ phân giải với màn hình thứ nhất.
+  
 **Cập nhật: 2.7.6 - 18/04/2026**
 - Bổ sung lệnh Formula Viewer để xem các tham số trong công thức.
 - Bổ sung lệnh Lookup Trace để đến ô chứa giá trị tìm được trong công thức dò tìm.
