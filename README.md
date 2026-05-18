@@ -91,7 +91,7 @@ Phím tắt:
   
 - Ctrl+Shift+m  :  Tự động giãn dòng các vùng Merge cell trong vùng được chọn
   
-- Ctrl+Shift+t  :  Copy, Paste nhiều vùng chọn khác nhau
+- Ctrl+Shift+z  :  Gộp ô không mất dữ liệu
   
 - Ctrl+Shift+i  :  In nghiêng văn bản sau ký tự ngăn cách
   
