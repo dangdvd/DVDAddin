@@ -108,6 +108,53 @@ Phím tắt:
 - Alt+s  :  Trích xuất văn bản từ ảnh chụp màn hình (kể từ phiên bản 2.7.2)
 
 --------------------------------------------------------------------------------------
+**Cập nhật: 2.8.3 - 11/08/2026**
+- Cải tiến nhóm lệnh vẽ tiến độ.
+
+**Cập nhật: 2.8.2 - 06/07/2026**
+
+📔 Nhật ký thi công: cột Ngày nghỉ (+ lệnh Chọn ngày nghỉ bằng lịch, chọn nhiều ngày); sửa treo/crash khi tạo nhật ký; ghi khối nhanh
+🖱 8 cửa sổ chọn vùng ô tự tránh ra khi chọn ô
+📐 Đọc PDF: tô nền hình + độ trong suốt; tô nền text, đổi font, bỏ viền
+🧭 Thanh điều hướng thu gọn thành mũi tên mép màn hình
+🪟 Cửa sổ gọn: Gửi Email / Ẩn-Hiện cột (cuộn ≤10 dòng), Văn bản & Số hẹp lại
+🔑 License: tài khoản PRO không còn bị hiện cửa sổ mua; STANDARD trước 01/07/2026 giữ Pro đến hết hạn.
+
+**Cập nhật: 2.8.1 - 02/07/2026**
+
+- Bổ sung lệnh Sinh tiến độ (khoảng tùy chọn).
+- Cải tiến lệnh Vẽ tiến độ — gộp 3 hộp thoại (Scale / Chiều rộng cột / Chọn Cột) vào 1 cửa sổ; auto-vẽ giữ đúng tỉ lệ.
+- Cải tiến lệnh Nhập/Xuất XML (P6/MSP) — nhận P6 (PMXML) + MS Project (MSPDI); công tác chi tiết cùng cấp sâu nhất; dòng Tổng hợp để trống Mã (nhất quán P6 & MSP); tô sẵn công tác găng
+- Bổ sung lệnh So sánh BoQ; Sổ khối lượng phát sinh + định giá; Thanh toán giai đoạn
+- Bổ sung lệnh Kế hoạch nghiệm thu sinh tự động từ bảng tiến độ
+
+**Cập nhật: 2.8.0 - 14/06/2026**
+
+- Bổ sung bộ công cụ chú thích PDF kiểu Acrobat trong lệnh Đọc PDF: vẽ tay, đường thẳng, mũi tên, khung, ô van, khoanh mây và mây đa giác, chú dẫn (callout); nhập chữ trực tiếp trên trang (kích đúp để sửa), canh lề 6 hướng, đổi cỡ chữ/mũi tên/độ lớn mây, chọn độ rộng nét 1–10.
+- Cải tiến thao tác xem PDF: phóng to theo đúng vị trí con trỏ chuột, giữ chuột giữa để tự cuộn, kéo chuột trái để di chuyển trang, tự phóng to cửa sổ khi mở.
+- Bổ sung lưu chú thích cho cả file PDF: nút Lưu (ghi đè file đang mở) và Lưu thành.
+- Bổ sung Copy/Paste trang trong PDF Manager (Ctrl+C / Ctrl+V và menu chuột phải).
+- Bổ sung lệnh Đánh Level: gán cấp Level theo mô tả (AI) hoặc theo màu nền ô, thay cho lệnh AI tự nhận level.
+- Gộp lệnh Chèn dòng và Chèn cột vào một cửa sổ có 2 tab.
+- Bổ sung giữ phím ESC để dừng lệnh đang chạy (các lệnh nặng như AutoFit ô gộp, xóa dòng, In hàng loạt…), không còn cảm giác treo Excel.
+- Bổ sung tự thêm/xóa model AI cho từng nhà cung cấp (Gemini/OpenAI/Groq/NVIDIA) ngay trong Tùy chọn.
+- Cải tiến phím tắt: gán phím cho bất kỳ lệnh ribbon nào, xóa được phím mặc định, bổ sung bộ phím chuẩn mới (F3, F6, F8, Shift+F1, Alt+X/C/S…).
+- Cải tiến giao diện sáng/tối phủ kín các cửa sổ còn lại và menu chuột phải; bổ sung song ngữ Anh–Việt đầy đủ.
+- Cải tiến In hàng loạt: hết gạch ngang ảo trên ô công thức khi xuất PDF; viết lại AutoFit ô gộp đo chính xác theo mọi font/độ phân giải; - sửa lỗi ảnh dvdPic xóa lẫn nhau; tự đóng cửa sổ sau khi xuất.
+- Cải tiến Kế hoạch thí nghiệm: dựng lại database TCVN từ file chuẩn (53 vật liệu / 239 chỉ tiêu), thêm chọn vật liệu trực tiếp và nút Sinh sheet.
+- Rà soát và bổ sung mô tả (tooltip) cho toàn bộ lệnh trên ribbon để người dùng mới dễ hiểu.
+- Sửa lỗi nhóm lệnh đầu dòng / đánh số / đa cấp để áp dụng được cho cả ô trống và ô công thức, bỏ qua dòng ẩn.
+
+LƯU Ý QUAN TRỌNG: PHIÊN BẢN NÀY DÙNG THƯ VIỆN .NET 8.0 NÊN SẼ KHÔNG DÙNG CHUNG VỚI CÁC ADDIN KHÁC DÙNG THƯ VIỆN KHÁC .NET 8.0
+
+**Cập nhật: 2.7.9 - 03/06/2026**
+
+- Bổ sung tự động vẽ lại biểu đồ tiến độ (Gantt) ngay khi sửa dữ liệu, bật cùng "Tự động tính"; thêm nút bật/tắt "Tự động vẽ" riêng, chống giật khi đang gõ.
+- Cải tiến lệnh Vẽ tiến độ: tự nhận diện dòng tiêu đề và vùng dữ liệu, không cần chọn vùng; tăng tốc vẽ Gantt.
+- Cải tiến nhóm lệnh Cắt thép: gộp template cấu hình + đánh số 00–07, cải tiến thuật toán cắt 1D/2D và cắt thép, xuất DXF, xem trước.
+- Sửa các biểu tượng (icon) trên ribbon bị thiếu.
+
+LƯU Ý QUAN TRỌNG: PHIÊN BẢN NÀY DÙNG THƯ VIỆN .NET 8.0 NÊN SẼ KHÔNG DÙNG CHUNG VỚI CÁC ADDIN KHÁC DÙNG THƯ VIỆN KHÁC .NET 8.0
 **Cập nhật: 2.7.7 - 15/05/2026**
 - Bổ sung lệnh Find Cmd để tìm kiếm lệnh nhanh (Ctrl+Shift+Q)
 - Bổ sung lệnh Lookup Trace để đến ô chứa giá trị tìm được trong công thức dò tìm.
