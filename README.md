@@ -110,7 +110,6 @@ Phím tắt:
 --------------------------------------------------------------------------------------
 **Cập nhật: 2.8.3 - 23/08/2026**
 - Cải tiến nhóm lệnh vẽ tiến độ.
-- Cải tiến nhóm lệnh vẽ tiến độ.
 - Cải tiến hàm dvdPic() để chèn nhiều hình ảnh khi in hồ sơ hàng loạt
 - Cải tiến lệnh In hàng loạt.
 
