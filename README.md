@@ -108,8 +108,11 @@ Phím tắt:
 - Alt+s  :  Trích xuất văn bản từ ảnh chụp màn hình (kể từ phiên bản 2.7.2)
 
 --------------------------------------------------------------------------------------
-**Cập nhật: 2.8.3 - 11/08/2026**
+**Cập nhật: 2.8.3 - 23/08/2026**
 - Cải tiến nhóm lệnh vẽ tiến độ.
+- Cải tiến nhóm lệnh vẽ tiến độ.
+- Cải tiến hàm dvdPic() để chèn nhiều hình ảnh khi in hồ sơ hàng loạt
+- Cải tiến lệnh In hàng loạt.
 
 **Cập nhật: 2.8.2 - 06/07/2026**
 
