@@ -108,6 +108,21 @@ Phím tắt:
 - Alt+s  :  Trích xuất văn bản từ ảnh chụp màn hình (kể từ phiên bản 2.7.2)
 
 --------------------------------------------------------------------------------------
+**Cập nhật: 2.8.4 - 11/09/2026**
+- Bổ sung tính năng Chống mất dữ liệu (Hộp xác nhận trước lệnh ghi đè + tự sao lưu sheet ẩn + lệnh Khôi phục dữ liệu)
+- Bổ sung lệnh Danh mục tồn tại, RFI, Trình duyệt.
+- Bổ sung lệnh Cân bằng nguồn lực.
+- Bổ sung lệnh Thống kê thép (BBS) nối vào Cắt tối ưu.
+- Bổ sung lệnh Đo bóc PDF, So bản vẽ PDF, Truy vấn dữ liệu (dvdSQL), Cầu nối dự toán, Bù giá.
+- Bổ sung lệnh Gộp file, Tách bảng, So sánh sheet, Trộn bảng, Đồng bộ trang in.
+- Bổ sung lệnh Đóng dấu / đánh số trang hàng loạt.
+- Bổ sung tính năng Quên mật khẩu.
+- Bổ sung tính năng nhập dòng thay cho nhập mã Activity ID. Ví dụ Quy đổi #13SS → mã Activity ID +SS.
+- Cải tiến tính năng Hệ thống kết nối (LAN / Internet).
+- Cải tiến tính năng So sánh BoQ.
+- Cải tiến tính năng DVD Chat.
+- Cải tiến tính năng Trợ lý AI.
+
 **Cập nhật: 2.8.3 - 23/08/2026**
 - Cải tiến nhóm lệnh vẽ tiến độ.
 - Cải tiến hàm dvdPic() để chèn nhiều hình ảnh khi in hồ sơ hàng loạt
