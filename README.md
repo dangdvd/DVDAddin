@@ -108,6 +108,14 @@ Phím tắt:
 - Alt+s  :  Trích xuất văn bản từ ảnh chụp màn hình (kể từ phiên bản 2.7.2)
 
 --------------------------------------------------------------------------------------
+**Cập nhật: 2.8.5 - 02/10/2026**
+- Bổ sung lệnh Khoanh mây (nhóm Đồ họa): vẽ mây đánh dấu sửa đổi thẳng lên bảng tính
+- Bổ sung lệnh Tạo shape móng từ DWG
+- Bổ sung lệnh Gắn nhãn liên kết (Menu Shape): mỗi ô của bảng thành một ảnh liên kết nền trắng, đặt trên, dưới, trái, phải hoặc giữa móng cùng tên
+- Bổ sung lệnh Chuyển nhãn sang Tĩnh: một lần bấm đổi mọi nhãn trên sheet
+- Bổ sung lệnh Đánh số Shape: đổi tên shape thành 1, 2, 3… theo vị trí
+- Sửa lỗi Dịch ngôn ngữ
+  
 **Cập nhật: 2.8.4 - 11/09/2026**
 - Bổ sung tính năng Chống mất dữ liệu (Hộp xác nhận trước lệnh ghi đè + tự sao lưu sheet ẩn + lệnh Khôi phục dữ liệu)
 - Bổ sung lệnh Danh mục tồn tại, RFI, Trình duyệt.
