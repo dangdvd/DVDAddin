@@ -108,7 +108,7 @@ Phím tắt:
 - Alt+s  :  Trích xuất văn bản từ ảnh chụp màn hình (kể từ phiên bản 2.7.2)
 
 --------------------------------------------------------------------------------------
-**Cập nhật: 2.8.5 - 02/10/2026**
+**Cập nhật: 2.8.5 - 05/10/2026**
 - Bổ sung lệnh Khoanh mây (nhóm Đồ họa): vẽ mây đánh dấu sửa đổi thẳng lên bảng tính
 - Bổ sung lệnh Tạo shape móng từ DWG
 - Bổ sung lệnh Gắn nhãn liên kết (Menu Shape): mỗi ô của bảng thành một ảnh liên kết nền trắng, đặt trên, dưới, trái, phải hoặc giữa móng cùng tên
