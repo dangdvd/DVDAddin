@@ -108,7 +108,21 @@ Phím tắt:
 - Alt+s  :  Trích xuất văn bản từ ảnh chụp màn hình (kể từ phiên bản 2.7.2)
 
 --------------------------------------------------------------------------------------
+**Cập nhật: 2.8.6 - 09/10/2026**
+- Hướng dẫn có hình từng bước cho cả 223 lệnh và 50 hàm UDF
+- Sửa lỗi hàm UDF: điều kiện "0,5" ô trống, dvdEvaluate, dvdExplain, dvdSQL...
+- Ctrl+Z dùng được ngay sau Dịch, Thêm dấu, Ngữ pháp, SMART case
+- Sửa lỗi QA/QC, Bù giá, tiến độ, Gửi định dạng
+
+
 **Cập nhật: 2.8.5 - 05/10/2026**
+- Bổ sung lệnh Khoanh mây (nhóm Đồ họa): vẽ mây đánh dấu sửa đổi thẳng lên bảng tính
+- Bổ sung lệnh Tạo shape móng, cọc, cột vách từ DWG
+- Bổ sung lệnh Tiến độ mặt bằng để theo dõi tiến độ từng shape trên mặt bằng.
+- Bổ sung lệnh Gắn nhãn liên kết (Menu Shape): mỗi ô của bảng thành một ảnh liên kết nền trắng, đặt trên, dưới, trái, phải hoặc giữa móng cùng tên
+- Bổ sung lệnh Chuyển nhãn sang Tĩnh: một lần bấm đổi mọi nhãn trên sheet
+- Bổ sung lệnh Đánh số Shape: đổi tên shape thành 1, 2, 3… theo vị trí
+- Sửa lỗi Dịch ngôn ngữ**Cập nhật: 2.8.5 - 05/10/2026**
 - Bổ sung lệnh Khoanh mây (nhóm Đồ họa): vẽ mây đánh dấu sửa đổi thẳng lên bảng tính
 - Bổ sung lệnh Tạo shape móng từ DWG
 - Bổ sung lệnh Gắn nhãn liên kết (Menu Shape): mỗi ô của bảng thành một ảnh liên kết nền trắng, đặt trên, dưới, trái, phải hoặc giữa móng cùng tên
