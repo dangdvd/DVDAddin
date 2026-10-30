@@ -109,14 +109,14 @@ Phím tắt:
 
 --------------------------------------------------------------------------------------
 
-**Cập nhật: 2.8.7 - 16/10/2026**
+**Cập nhật: 2.8.7 - 30/10/2026**
 - Cải tiến và sửa lỗi.
 - Cập nhật hướng dẫn sử dụng. Có video hướng dẫn trên Youtube và trên https://dvdaddin.dvdpm.net/
 - Thêm tính năng chỉnh sửa file PDF và trong lệnh Đọc PDF.
 - Thêm tính năng cắt khổ giấy file PDF trong lệnh PDF Manager.
-  
+
 **Cập nhật: 2.8.6 - 09/10/2026**
-- Hướng dẫn có hình từng bước cho cả 223 lệnh và 50 hàm UDF
+- Hướng dẫn có hình từng bước cho cả 224 lệnh và 50 hàm UDF
 - Sửa lỗi hàm UDF: điều kiện "0,5" ô trống, dvdEvaluate, dvdExplain, dvdSQL...
 - Ctrl+Z dùng được ngay sau Dịch, Thêm dấu, Ngữ pháp, SMART case
 - Sửa lỗi QA/QC, Bù giá, tiến độ, Gửi định dạng
