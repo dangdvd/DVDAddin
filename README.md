@@ -109,6 +109,13 @@ Phím tắt:
 
 --------------------------------------------------------------------------------------
 
+**Cập nhật: 2.8.9 - 13/11/2026**
+- Cải tiến và sửa lỗi.
+- Bổ sung tính năng MCP để dùng AI mà không cần API.
+
+**Cập nhật: 2.8.8 - 02/11/2026**
+- Cải tiến và sửa lỗi.
+  
 **Cập nhật: 2.8.7 - 30/10/2026**
 - Cải tiến và sửa lỗi.
 - Cập nhật hướng dẫn sử dụng. Có video hướng dẫn trên Youtube và trên https://dvdaddin.dvdpm.net/
